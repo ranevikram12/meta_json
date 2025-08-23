@@ -1,0 +1,17 @@
+{
+  "name": "Solflare X NFT",
+  "seller_fee_basis_points": 0,
+  "image": "https://picsum.photos/id/237/250",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://picsum.photos/id/237/250",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      { "address": "SOLFLR15asd9d21325bsadythp547912501b", "share": 100 }
+    ]
+  }
+}
